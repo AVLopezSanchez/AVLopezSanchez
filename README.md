@@ -6,3 +6,11 @@
 
 
 <br>
+
+<!--Intro start-->
+- 🔭 Actualemte estoy trabajando en **Nest.js, TypeScript, PostgresSQL, Docker.**
+
+- 🌱 Sigo aprendiendo  **React.js, Next.js.**
+
+- 📫 Puedes contactarme por **andrea.virginia.ls@gmail.com**
+<!--Intro end-->
